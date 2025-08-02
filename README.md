@@ -21,3 +21,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+Backend: https://github.com/Harshitagoyal5/ripplica-search-assistant-backend
